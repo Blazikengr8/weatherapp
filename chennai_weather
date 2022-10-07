@@ -1,0 +1,12 @@
+import 'dart:math';
+
+main() {
+  var rng = Random();
+  var a = rng.nextInt(100);
+  if(a%2 == 0){
+    print("Drought!!!");
+  }
+  else{
+    print("Flood!!!! *glug* *glug*");
+  }
+}
