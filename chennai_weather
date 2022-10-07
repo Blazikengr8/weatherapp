@@ -7,6 +7,6 @@ main() {
     print("Drought!!!");
   }
   else{
-    print("Flood!!!! *glug* *glug*");
+    print("Flood!!!! *glug* *glug* *glug*");
   }
 }
